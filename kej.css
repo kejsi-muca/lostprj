@@ -1,0 +1,118 @@
+img{
+    padding-left: 200px;
+    
+}
+td{
+    color: white;
+}
+table{
+    border-color: mediumpurple;
+}
+form{
+    font-family: Copperplate Gothic Light;
+    color:white;
+    font-size: 18px;
+}
+#nje{
+    font-family: Copperplate Gothic Light;
+    color: yellow;
+    font-size: 30px;
+    
+}
+img.photo{
+    padding-left: 160px;
+    width: 450;
+    height: 300;
+}
+p.p{
+   font-family: Copperplate Gothic Light;
+    color:yellow;
+    font-size: 18px; 
+}
+#n{
+    font-family: Copperplate Gothic Light;
+    color: yellow;
+    font-size: 30px;
+    
+}
+p.jk{
+   font-family: Copperplate Gothic Light;
+    color:purple;
+    font-size: 14px; 
+}
+p.v{
+   font-family: Copperplate Gothic Light;
+    color:green;
+    font-size: 14px; 
+}
+p.rm{
+   font-family: Copperplate Gothic Light;
+    color:blue;
+    font-size: 14px; 
+}
+p.jin{
+   font-family: Copperplate Gothic Light;
+    color:pink;
+    font-size: 14px; 
+}
+p.jimi{
+   font-family: Copperplate Gothic Light;
+    color:gold;
+    font-size: 14px; 
+}p.suga{
+   font-family: Copperplate Gothic Light;
+    color:black;
+    font-size: 14px; 
+}
+p.j-hope{
+   font-family: Copperplate Gothic Light;
+    color:red;
+    font-size: 14px; 
+}
+
+a:hover {
+  color: #FF00FF;
+}
+#btslogo{
+    position: relative;
+    top: 7px;
+    right: 90px;
+    
+}
+#armylogo{
+    position: relative;
+    top: 7px;
+    left: 270px;
+    width: 270px;
+    height: 270px;
+    
+}
+
+
+
+#z1 {
+position: relative;
+right: 70px;
+z-index: 1;
+}
+#z2 {
+position: relative;
+right: 300px;
+top: 70px;
+z-index: 1;
+}
+#z3 {
+position: relative;
+left: 380px;
+top: -270px;
+z-index: 3;
+}
+#z4 {
+position: relative;
+left: 130px;
+top: -150px;
+z-index: 4;
+}
+#float {
+    float:right;
+}
